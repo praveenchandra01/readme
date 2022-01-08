@@ -27,5 +27,6 @@ fourth-year student pursuing Bachelors in Computer science studies. I am a probl
 <hr>
 
 <p align="center">
-  <img src="https://github.com/praveenchandra01/praveenchandra01/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<!--   <img src="https://github.com/praveenchandra01/praveenchandra01/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+       <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
