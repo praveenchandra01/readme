@@ -3,7 +3,9 @@
          height="45"
          width="45" />, I'm Praveen Kumar Chandra</h1>
 <h5 align="center">
-fourth-year student pursuing Bachelors in Computer science studies. I am a problem solver, tech enthusiast, MERN stack web developer, and a photographer.
+Fourth-year student pursuing Bachelors in Computer science studies |
+         Problem Solver | Tech Enthusiast | MERN stack web developer | Photographer
+ 
 </h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenchandra01&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
