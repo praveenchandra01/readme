@@ -15,7 +15,7 @@ fourth-year student pursuing Bachelors in Computer science studies. I am a probl
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=praveenchandra01&count_private=true&theme=radical&show_icons=true" />
 
-<br><br>
+<br>
 <hr>
 
 <h3 align="center">Connect with me:</h3>
