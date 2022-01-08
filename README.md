@@ -1,15 +1,17 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center">Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" />, I'm Praveen Chandra</h1>
+         width="45" />, I'm Praveen Kumar Chandra</h1>
 <h5 align="center">
-A fourth-year student pursuing Bachelors in Computer science studies . I am a Web developer enthusiast and a Photographer. 
+fourth-year student pursuing Bachelors in Computer science studies. I am a problem solver, tech enthusiast, MERN stack web developer, and a photographer.
 </h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenchandra01&label=Profile%20views&color=0e75b6&style=flat" alt="ishikkkkaaaa" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenchandra01&label=Profile%20views&color=0e75b6&style=flat" /> </p>
+
 <p>
 <a align= "center" href="https://github.com/praveenchandra01">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenchandra01&theme=radical">
-<img align="right" height="410" width="400" src=https://cdn.dribbble.com/users/195172/screenshots/6578919/image.png /> </a>
+<img align="right" height="410" width="380" src=https://cdn.dribbble.com/users/195172/screenshots/6578919/image.png /> 
+</a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=praveenchandra01&count_private=true&theme=radical&show_icons=true" />
 
