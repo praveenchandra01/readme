@@ -10,7 +10,7 @@ fourth-year student pursuing Bachelors in Computer science studies. I am a probl
 <p>
 <a align= "center" href="https://github.com/praveenchandra01">
 <img alt= "stats card" height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=praveenchandra01&theme=radical">
-<img align="right" height="410" width="380" src=https://cdn.dribbble.com/users/195172/screenshots/6578919/image.png /> 
+<img align="right" height="410" width="350" src=https://cdn.dribbble.com/users/195172/screenshots/6578919/image.png /> 
 </a>
 </p>
 <img height="200px" width="400" src="https://github-readme-stats.vercel.app/api?username=praveenchandra01&count_private=true&theme=radical&show_icons=true" />
