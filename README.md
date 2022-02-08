@@ -22,7 +22,8 @@ Fourth-year student pursuing Bachelors in Computer science studies |
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/praveenchandr01" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335289.png?token=exp=1641607961~hmac=4e4066a9d3dfc8e795d8aedeb0aeda49" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
+<!-- <a href="https://twitter.com/praveenchandr01" target="_blank"><img src="https://cdn-icons.flaticon.com/png/512/2335/premium/2335289.png?token=exp=1641607961~hmac=4e4066a9d3dfc8e795d8aedeb0aeda49" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp; -->
+<a href="https://twitter.com/praveenchandr01" target="_blank"><img src="https://img.icons8.com/external-justicon-lineal-color-justicon/344/external-twitter-social-media-justicon-lineal-color-justicon.png" height="50" width="50" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/praveenchandra01/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
