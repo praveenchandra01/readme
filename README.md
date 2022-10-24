@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Praveen Kumar Chandra</h1>
 <h5 align="center">
-Computer science Grad |
+Computer Science Grad |
          Problem Solver | Tech Enthusiast | MERN stack web developer | Photographer
  
 </h5>
