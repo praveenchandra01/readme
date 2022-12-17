@@ -28,9 +28,9 @@ Computer Science Grad |
 <a href="https://www.linkedin.com/in/praveenchandra01/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/408/408703.png" height="50" width="50" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<hr>
+<!-- <hr> -->
 
-<p align="center">
+<!-- <p align="center">
 <!--   <img src="https://github.com/praveenchandra01/praveenchandra01/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
-       <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<!--        <img src="https://github.com/ishikkkkaaaa/ishikkkkaaaa/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
+<!-- </p> -->
