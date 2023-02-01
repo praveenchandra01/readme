@@ -3,7 +3,7 @@
          height="45"
          width="45" />, I'm Praveen Kumar Chandra</h1> -->
          
-<h1 align="center">Hey there <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" 
+<h1 align="center">Hey there<img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_light-skin-tone_1f44b-1f3fb_1f3fb.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />, I'm Praveen Kumar Chandra</h1>
